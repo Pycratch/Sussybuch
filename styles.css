@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+   background-image: url("bilder/SUSSES_BILD_FUE_SUSSYBUCH.png");
+
+}
+.center {
+  text-align: center;
+}
+.red_color {
+  color: red;
+}
+p{
+  color: #0101ff;
+}
+.blue
+{
+  font-family: 'Shantell Sans', cursive;
+  background-color:1, 1, 265 ; }
+.blue_color{
+  color: blue;
+}
